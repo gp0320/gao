@@ -1,0 +1,16 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "commit": "gaopo commit",
+    "changelog": "node ./scripts/getChangelog.js run",
+    "lint": "anne lint packages,examples,docs,blocks",
+    "new": "node ./scripts/create.js"
+  },
+  "devDependencies": {
+    "lerna": "^3.14.1"
+  }
+}
