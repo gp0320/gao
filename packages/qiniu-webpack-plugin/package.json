@@ -1,10 +1,10 @@
 {
   "name": "@gao/qiniu-webpack",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
-  "gitHead": "4ac4317bdd7e46438ea7d6eb3669e597e4b7768a"
+  "gitHead": ""
 }

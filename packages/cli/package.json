@@ -1,12 +1,12 @@
 {
   "name": "@gao/cli",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
-  "gitHead": "",
+  "gitHead": "44678153a2ab341f600504a35c1e8b950c558b3f",
   "dependencies": {
     "commander": "^3.0.2"
   }
